@@ -1,6 +1,6 @@
 # HTML-CSS
 This repository dedicates to alll the projects based on HTML&CSS
-IT HAS HTML AND CSS NOTES
+THIS README.md FILE CONTAINS THE NOTES OF HTML AND CSS
 1. IMPORTANT HTML TAGS
    A] OPEN TAGS
    a.<br/>
