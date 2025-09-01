@@ -25,4 +25,28 @@ IT HAS HTML AND CSS NOTES
    <u></u> to underline the text
    <mark></mark> to highlight some text
    <del></del> to srtrikethrough some text
-   
+
+   E]LIST TAGS
+   A.ORDERED LIST
+   <ol></ol>
+      List items<li></li>
+                   Types
+                       Numerical
+                            Example
+                            1.HTML
+                            2.CSS
+                            3.JAVASCRIPT
+
+   B.UNORDERED LIST
+   <ul></ul>
+       List items<li></li>
+                   Types
+                      disc
+                      circle
+                      square
+                      none
+                             Example
+                                 HTML
+                                 CSS
+                                 JAVASCRIPT
+      
