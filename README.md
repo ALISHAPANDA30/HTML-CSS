@@ -6,8 +6,13 @@ IT HAS HTML AND CSS NOTES
    a.<br/>
    b.<hr/>
    c.<img/>
+   d.<hr/> #it creates a horizontal line between two words or sentences a little similar to br tag
 
    B]CLOSE TAGS
    a.<html></html>
    b.<p></p>
    c.<div></div>
+
+   C]HEADING TAGS
+   <h1></h1>
+   <h2></>h2
