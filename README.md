@@ -16,3 +16,13 @@ IT HAS HTML AND CSS NOTES
    C]HEADING TAGS
    <h1></h1>
    <h2></>h2
+
+   D]BASIC TEXT TAGS
+   <b></b> to bold the text
+   <strong></strong> to bold the text and to identify the text as important
+   <p></p> to create a paragarph
+   <i></i> to italic the text
+   <u></u> to underline the text
+   <mark></mark> to highlight some text
+   <del></del> to srtrikethrough some text
+   
